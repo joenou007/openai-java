@@ -1,0 +1,10 @@
+create a android music player
+that plays embedded music 
+it must have play button
+it must have pause button 
+it must have reshuffle button
+it must display the embedded song
+song must be selected in the list to be played
+it must have one-time installation security feature
+it must prompt the user to enter the keyword to continue installation
+use xml for layout
